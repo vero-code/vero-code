@@ -4,8 +4,10 @@ Hi, I'm Veronika ![](https://user-images.githubusercontent.com/18350557/17630978
 Passionate about AI and multi-agent systems — I also enjoy playing chess ♟️ and seeing stars on my GitHub repos ✨.
 If something I build makes someone’s day easier — that’s a win.
 
-🔹 Winner of the *Feedback Prize* from **Microsoft** at the *Accelerate App Development with GitHub Copilot* hackathon
+🔹 **PL_Genesis Hackathon Winner** (AI & Autonomous Infrastructure) & **Founders Forge Top 15** with [XBot AI](https://github.com/vero-code/xbot-ai).
 
-🪴 Awarded **JetBrains Ultimate licenses** for open-source contributions
+⚡ Contributor to **Google's adk-java**: [PR #189](https://github.com/google/adk-java/pull/189) — unified Javadoc across core classes.
 
-⚡ Contributor to **Google's adk-java**: [PR #189](https://github.com/google/adk-java/pull/189) — unified Javadoc across core classes
+🔹 **Microsoft Feedback Prize Winner** at the *Accelerate App Development with GitHub Copilot Hackathon* with [Define Emotion AI](https://github.com/vero-code/define-emotion).
+
+🪴 Awarded **JetBrains Ultimate licenses** for open-source contributions.
