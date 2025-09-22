@@ -10,6 +10,8 @@ If something I build makes someone’s day easier — that’s a win.
 
 ⚡ Contributor to **Google's adk-java**: [PR #189](https://github.com/google/adk-java/pull/189) — unified Javadoc across core classes.
 
+🧪 Actively contributing to the **Chrome Built-in AI Early Preview Program**, providing in-depth feedback on experimental APIs.
+
 🔹 **Microsoft Feedback Prize Winner** at the *Accelerate App Development with GitHub Copilot Hackathon* with [Define Emotion AI](https://github.com/vero-code/define-emotion).
 
 🪴 Awarded **JetBrains Ultimate licenses** for open-source contributions.
