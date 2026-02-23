@@ -4,19 +4,23 @@ Hi, I'm Veronika ![](https://user-images.githubusercontent.com/18350557/17630978
 Passionate about AI and multi-agent systems — I also enjoy playing chess ♟️ and seeing stars on my GitHub repos ✨.
 If something I build makes someone’s day easier — that’s a win.
 
-🔹 **Awarded the Google AI Badge** (Top Post) for [Source Persona](https://github.com/vero-code/source-persona) — a voice-enabled **AI Digital Twin** that acts as a living portfolio, featuring a **Seniority Slider** and **Hybrid RAG** (PDF + GitHub) powered by **Gemini 3**.
+🏆 **AETHRA Global Gamethon 2025 Winner** **[Adventurer's Voyage](https://github.com/vero-code/memoirs-wanderer)** — narrative action-RPG about resilience and identity rebuilding.
 
-🔹 **PANDA Hacks 2025 Winner** with [Castanea](https://github.com/vero-code/castanea) — a multi-agent academic workspace powered by **Google ADK**, **Gemini**, and **Perplexity**.
+🔹 **Awarded the Google AI Badge** (Top Post) for [Source Persona](https://github.com/vero-code/source-persona) — a voice-enabled **AI Digital Twin** that acts as a living portfolio.
 
-🔹 **Google Maps Platform Awards Nominee** & selected for the **Google for Startups Cloud Program** with [Celestine](https://github.com/vero-code/celestine) — an immersive 3D space navigator connecting the cosmos to Earth via **Gemini** and **Places API**.
+🔹 **Honorable Mention at Chroma Awards 2025** (Games — Interactive Narrative) with [POINTFALL](https://github.com/vero-code/pointfall) — a 3D first-person narrative game.
+
+🏆 **PANDA Hacks 2025 Winner** with [Castanea](https://github.com/vero-code/castanea) — a multi-agent academic workspace powered by **Google ADK**, **Gemini**, and **Perplexity**.
+
+🔹 **Google Maps Platform Awards Nominee** & selected for the **Google for Startups Cloud Program** with [Celestine](https://github.com/vero-code/celestine) — 3D space navigator.
 
 🔹 **Live on the Adobe Express Marketplace**: [EthnoLens AI](https://github.com/vero-code/ethno-lens-ai) — an intelligent add-on that analyzes designs for cultural and ethical pitfalls.
 
-🔹 **Awarded Certificate of Outstanding Participation** at the *NASA International Space Apps Challenge 2025* with [Biotessera](https://github.com/vero-code/biotessera) — an AI knowledge engine for Space Biology research utilizing **LangChain** and **RAG**.
+🔹 **Certificate of Outstanding Participation** at the *NASA International Space Apps Challenge 2025* — [Biotessera](https://github.com/vero-code/biotessera) for Space Biology.
 
 🔹 **Featured** in the official [Perplexity API Cookbook](https://docs.perplexity.ai/cookbook/showcase/valetudo-ai) with [Valetudo AI](https://github.com/vero-code/valetudo-ai), a science-backed medical assistant.
 
-🔹 **PL_Genesis Hackathon Winner** (AI & Autonomous Infrastructure) & **Founders Forge Top 15** with [XBot AI](https://github.com/vero-code/xbot-ai).
+🏆 **PL_Genesis Hackathon Winner** (AI & Autonomous Infrastructure) & **Founders Forge Top 15** with [XBot AI](https://github.com/vero-code/xbot-ai).
 
 ⚡ Contributor to **Google's adk-java**: [PR #189](https://github.com/google/adk-java/pull/189) — unified Javadoc across core classes.
 
