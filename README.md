@@ -4,7 +4,9 @@ Hi, I'm Veronika ![](https://user-images.githubusercontent.com/18350557/17630978
 Passionate about AI and multi-agent systems — I also enjoy playing chess ♟️ and seeing stars on my GitHub repos ✨.
 If something I build makes someone’s day easier — that’s a win.
 
-🏆 **AETHRA Global Gamethon 2025 Winner** **[Adventurer's Voyage](https://github.com/vero-code/memoirs-wanderer)** — narrative action-RPG about resilience and identity rebuilding.
+🏆 **Codegeist 2025 Prize Winner** (Atlassian Williams Racing Edition) with [DRS: Debug Response System](https://github.com/vero-code/drs-debug-system) — an AI Rovo Agent.
+
+🏆 **AETHRA Global Gamethon 2025 Winner** [Adventurer's Voyage](https://github.com/vero-code/memoirs-wanderer) — narrative action-RPG about resilience and identity rebuilding.
 
 🔹 **Awarded the Google AI Badge** (Top Post) for [Source Persona](https://github.com/vero-code/source-persona) — a voice-enabled **AI Digital Twin** that acts as a living portfolio.
 
