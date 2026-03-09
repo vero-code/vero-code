@@ -30,6 +30,8 @@ If something I build makes someone’s day easier — that’s a win.
 
 🔹 **Microsoft Feedback Prize Winner** at the *Accelerate App Development with GitHub Copilot Hackathon* with [Define Emotion AI](https://github.com/vero-code/define-emotion).
 
+🛡️ **Trusted Member on DEV Community** — recognized for [high-quality contributions](https://dev.to/vero-code) and entrusted with community moderation.
+
 ⚖️ Serving as a Volunteer [**Judge for DEV Challenges**](https://dev.to/vero-code) on DEV.to.
 
 🪴 Awarded **JetBrains Ultimate licenses** for open-source contributions.
