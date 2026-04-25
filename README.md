@@ -1,37 +1,47 @@
-Hi, I'm Veronika ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) — proactive AI developer.
-================================================================================================================================
+## Hi, I'm Veronika ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) AI founder & Agent Architect building human-centric systems at the intersection of SDG and DeepTech. **#ShippedAnyway**
 
-Passionate about AI and multi-agent systems — I also enjoy playing chess ♟️ and seeing stars on my GitHub repos ✨.
-If something I build makes someone’s day easier — that’s a win.
+### Engineering Resilience 🛡️ Built for future — Use for today
 
-🏆 **Codegeist 2025 Prize Winner** (Atlassian Williams Racing Edition) with [DRS: Debug Response System](https://github.com/vero-code/drs-debug-system) — an AI Rovo Agent.
+_"I build systems because they are the fastest way to shorten the distance between a problem and its solution."_ My work is a conscious contribution to **Sustainable Development Goals**, focusing on **Human-Centric AI**, **Inclusive Architecture**, and **Hard Tech Foundations**.
 
-🏆 **AETHRA Global Gamethon 2025 Winner** [Adventurer's Voyage](https://github.com/vero-code/memoirs-wanderer) — narrative action-RPG about resilience and identity rebuilding.
+| Startup | Focus | Status | SDG | Repo |
+|---------|-------|--------|-----|-----|
+| [EthnoLens AI](https://ethnolens.com/) | Cultural inclusivity | Live on [Adobe Express Marketplace](https://adobesparkpost.app.link/TR9Mb7TXFLb?addOnId=wgih39l8j) | _SDG 10: Reduced Inequalities_ | [:star:](https://github.com/vero-code/ethno-lens-ai) |
+| [Celestine](https://vero-code.website/celestine/index.html) | Space exploration | [Google Maps Nominee](https://mapsplatform.google.com/awards/?nominee=celestine-rg16km), Google for Startups | _SDG 4: Quality Education_ | [:star:](https://github.com/vero-code/celestine) |
+| [Spatial Engine](https://spatial-engine-landing.vercel.app/) | Energy optimization | DeepTech agent using deterministic physics | _SDG 9: Industry & Innovation_ | [:star:](https://github.com/vero-code/spatial-engine)|
+| [Gemini Tales](https://gemini-tales-landing.vercel.app/) | Screen time that moves | Supported by the [Devpost community](https://devpost.com/software/gemini-tales) | _SDG 3: Good Health & Well-being_ | [:star:](https://github.com/vero-code/gemini-tales-v2)|
+| [Valetudo AI](https://valetudo-ai.vercel.app/) | Medical assistant | Featured in [Perplexity API Cookbook](https://docs.perplexity.ai/docs/cookbook/showcase/valetudo-ai) | _SDG 3: Good Health & Well-being_ | [:star:](https://github.com/vero-code/valetudo-ai) |
 
-🔹 **Awarded the Google AI Badge** (Top Post) for [Source Persona](https://github.com/vero-code/source-persona) — a voice-enabled **AI Digital Twin** that acts as a living portfolio.
+---
 
-🔹 **Honorable Mention at Chroma Awards 2025** (Games — Interactive Narrative) with [POINTFALL](https://github.com/vero-code/pointfall) — a 3D first-person narrative game.
+### Foundation 🏆
 
-🏆 **PANDA Hacks 2025 Winner** with [Castanea](https://github.com/vero-code/castanea) — a multi-agent academic workspace powered by **Google ADK**, **Gemini**, and **Perplexity**.
+🔹 **PANDA Hacks 2025** — [Castanea](https://github.com/vero-code/castanea), multi-agent academic workspace powered by **Google ADK**, **Gemini**, and **Perplexity**.
 
-🔹 **Google Maps Platform Awards Nominee** & selected for the **Google for Startups Cloud Program** with [Celestine](https://github.com/vero-code/celestine) — 3D space navigator.
+🔹 **AETHRA Global Gamethon 2025** — [Adventurer's Voyage](https://github.com/vero-code/memoirs-wanderer), narrative action-RPG about resilience and identity rebuilding.
 
-🔹 **Live on the Adobe Express Marketplace**: [EthnoLens AI](https://github.com/vero-code/ethno-lens-ai) — an intelligent add-on that analyzes designs for cultural and ethical pitfalls.
+🔹 **Codegeist 2025 Prize Winner** (Atlassian Williams Racing Edition) — [DRS: Debug Response System](https://github.com/vero-code/drs-debug-system), AI Rovo Agent.
 
-🔹 **Certificate of Outstanding Participation** at the *NASA International Space Apps Challenge 2025* — [Biotessera](https://github.com/vero-code/biotessera) for Space Biology.
-
-🔹 **Featured** in the official [Perplexity API Cookbook](https://docs.perplexity.ai/cookbook/showcase/valetudo-ai) with [Valetudo AI](https://github.com/vero-code/valetudo-ai), a science-backed medical assistant.
-
-🏆 **PL_Genesis Hackathon Winner** (AI & Autonomous Infrastructure) & **Founders Forge Top 15** with [XBot AI](https://github.com/vero-code/xbot-ai).
-
-⚡ Contributor to **Google's adk-java**: [PR #189](https://github.com/google/adk-java/pull/189) — unified Javadoc across core classes.
-
-🧪 Actively contributing to the **Chrome Built-in AI Early Preview Program**, providing in-depth feedback on experimental APIs.
+🔹 **PL_Genesis Hackathon** (AI & Autonomous Infrastructure Winner) & **Founders Forge Top 15** — [XBot AI](https://github.com/vero-code/xbot-ai), AI assist for X.
 
 🔹 **Microsoft Feedback Prize Winner** at the *Accelerate App Development with GitHub Copilot Hackathon* with [Define Emotion AI](https://github.com/vero-code/define-emotion).
 
-🛡️ **Trusted Member on DEV Community** — recognized for [high-quality contributions](https://dev.to/vero-code) and entrusted with community moderation.
+🔹 **Honorable Mention at Chroma Awards 2025** (Interactive Narrative) with [POINTFALL](https://github.com/vero-code/pointfall) — a 3D first-person narrative game.
 
-⚖️ Serving as a Volunteer [**Judge for DEV Challenges**](https://dev.to/vero-code) on DEV.to.
+🔹 **Certificate of Outstanding Participation** at the *NASA International Space Apps Challenge 2025* — [Biotessera](https://github.com/vero-code/biotessera) for Space Biology.
 
-🪴 Awarded **JetBrains Ultimate licenses** for open-source contributions.
+---
+
+### Recognition 🌱
+
+🔹 **Google AI Badge** ([Top Post](https://dev.to/vero-code/source-persona-ai-twin-md9)) — [Source Persona](https://github.com/vero-code/source-persona), voice-enabled AI digital twin.
+
+🔹 **Trusted Member on DEV Community** — recognized for [high-quality contributions](https://dev.to/vero-code).
+
+🔹 **Contributor to Google's adk-java**: [PR #189](https://github.com/google/adk-java/pull/189) — unified Javadoc across core classes.
+
+🔹 **Chrome Built-in AI Early Preview Program** — providing in-depth feedback on APIs.
+
+🔹 **Volunteer** as a [**judge for DEV Challenges**](https://dev.to/vero-code) on DEV.to.
+
+🔹 **JetBrains Ultimate licenses** for open-source contributions.
