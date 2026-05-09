@@ -12,7 +12,7 @@ _"I build systems because they are the fastest way to shorten the distance betwe
 | [Celestine](https://celestine-landing.vercel.app/) | Space exploration | [Google Maps Nominee](https://mapsplatform.google.com/awards/?nominee=celestine-rg16km), Google for Startups | _SDG 4: Quality Education_ | [:star:](https://github.com/vero-code/celestine) |
 | [Spatial Engine](https://spatial-engine-landing.vercel.app/) | Energy optimization | DeepTech agent using deterministic physics | _SDG 9: Industry & Innovation_ | [:star:](https://github.com/vero-code/spatial-engine)|
 | [Gemini Tales](https://gemini-tales-landing.vercel.app/) | Screen time that moves | Supported by the [Devpost community](https://devpost.com/software/gemini-tales) | _SDG 3: Good Health & Well-being_ | [:star:](https://github.com/vero-code/gemini-tales-v2)|
-| [Lexi Node](https://lexi-node.vercel.app/) | Language learning | Available in the [Chrome Web Store](https://docs.perplexity.ai/docs/cookbook/showcase/valetudo-ai) | _SDG 4: Quality Education_ | |
+| [Lexi Node](https://lexi-node.vercel.app/) | Language learning | Available in the [Chrome Web Store](https://chromewebstore.google.com/detail/lexi-node-visual-vocabula/lmahjhejkojpphjkccdabcpnomjelihb) | _SDG 4: Quality Education_ | |
 | [Valetudo AI](https://valetudo-ai.vercel.app/) | Medical assistant | Featured in [Perplexity API Cookbook](https://docs.perplexity.ai/docs/cookbook/showcase/valetudo-ai) | _SDG 3: Good Health & Well-being_ | [:star:](https://github.com/vero-code/valetudo-ai) |
 
 ---
