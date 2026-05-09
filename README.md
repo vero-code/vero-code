@@ -1,4 +1,6 @@
-## Hi, I'm Veronika ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) AI founder & Agent Architect building human-centric systems at the intersection of SDG and DeepTech. **#ShippedAnyway**
+## Hi, I'm Veronika ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
+Founder of [Vero Code](https://www.vero-code.website/) & Agent Architect — an ecosystem for human-centric AI, resilient systems at the intersection of SDG and DeepTech. **#ShippedAnyway**
 
 ### Engineering Resilience 🛡️ Built for future — Use for today
 
@@ -7,9 +9,10 @@ _"I build systems because they are the fastest way to shorten the distance betwe
 | Startup | Focus | Status | SDG | Repo |
 |---------|-------|--------|-----|-----|
 | [EthnoLens AI](https://ethnolens.com/) | Cultural inclusivity | Live on [Adobe Express Marketplace](https://adobesparkpost.app.link/TR9Mb7TXFLb?addOnId=wgih39l8j) | _SDG 10: Reduced Inequalities_ | [:star:](https://github.com/vero-code/ethno-lens-ai) |
-| [Celestine](https://vero-code.website/celestine/index.html) | Space exploration | [Google Maps Nominee](https://mapsplatform.google.com/awards/?nominee=celestine-rg16km), Google for Startups | _SDG 4: Quality Education_ | [:star:](https://github.com/vero-code/celestine) |
+| [Celestine](https://celestine-landing.vercel.app/) | Space exploration | [Google Maps Nominee](https://mapsplatform.google.com/awards/?nominee=celestine-rg16km), Google for Startups | _SDG 4: Quality Education_ | [:star:](https://github.com/vero-code/celestine) |
 | [Spatial Engine](https://spatial-engine-landing.vercel.app/) | Energy optimization | DeepTech agent using deterministic physics | _SDG 9: Industry & Innovation_ | [:star:](https://github.com/vero-code/spatial-engine)|
 | [Gemini Tales](https://gemini-tales-landing.vercel.app/) | Screen time that moves | Supported by the [Devpost community](https://devpost.com/software/gemini-tales) | _SDG 3: Good Health & Well-being_ | [:star:](https://github.com/vero-code/gemini-tales-v2)|
+| [Lexi Node](https://lexi-node.vercel.app/) | Language learning | Available in the [Chrome Web Store](https://docs.perplexity.ai/docs/cookbook/showcase/valetudo-ai) | _SDG 4: Quality Education_ | |
 | [Valetudo AI](https://valetudo-ai.vercel.app/) | Medical assistant | Featured in [Perplexity API Cookbook](https://docs.perplexity.ai/docs/cookbook/showcase/valetudo-ai) | _SDG 3: Good Health & Well-being_ | [:star:](https://github.com/vero-code/valetudo-ai) |
 
 ---
