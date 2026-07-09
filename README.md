@@ -1,10 +1,8 @@
 ## Hi, I'm Veronika ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Founder of [Vero Code](https://www.vero-code.website/) & Agent Architect — an ecosystem for human-centric AI, resilient systems at the intersection of SDG and DeepTech. **#ShippedAnyway**
-
 ### Engineering Resilience 🛡️ Built for future — Use for today
 
-_"I build systems because they are the fastest way to shorten the distance between a problem and its solution."_ My work is a conscious contribution to **Sustainable Development Goals**, focusing on **Human-Centric AI**, **Inclusive Architecture**, and **Hard Tech Foundations**.
+_"I build systems because they are the fastest way to shorten the distance between a problem and its solution."_ My work is a conscious contribution to **Sustainable Development Goals**, focusing on **Human-Centric AI**, **Inclusive Architecture**, and **Hard Tech Foundations**. #ShippedAnyway
 
 | Startup | Focus | Status | SDG | Repo |
 |---------|-------|--------|-----|-----|
