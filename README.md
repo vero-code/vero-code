@@ -1,11 +1,9 @@
 Hi, I'm Veronika ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) *If something I build makes someone’s day easier — that’s a win.*
 
 ```bash
-$ whoami
-> FOCUS:        Human-Centric AI · Inclusive Architecture · Hard Tech Foundations
+> FOCUS:        Human-Centric AI · Hard Tech Foundations
 > MISSION:      Sustainable Development Goals (SDG)
 > DEPLOYMENT:   Built for the future, ready for today.
-> STATUS:       #ShippedAnyway (dev.to/vero-code)
 ```
 
 ## Foundation 🏆
@@ -29,6 +27,7 @@ $ whoami
 | **Perplexity** <kbd>Cookbook</kbd> | [Valetudo AI](https://github.com/vero-code/valetudo-ai) featured in the official API showcase |
 | **Devpost** <kbd>Community</kbd> | [Gemini Tales](https://github.com/vero-code/gemini-tales-v2) earned top votes and strong [developer support](https://devpost.com/software/gemini-tales) |
 | **Google** <kbd>Startup Grant</kbd> | [Celestine](https://github.com/vero-code/celestine) named [Maps Platform Awards Nominee](https://mapsplatform.google.com/awards/?nominee=celestine-rg16km) |
+| **Hack Apertus** <kbd>Contributor</kbd> | [SEVERIN](https://hackapertus.ch/projects/severin) published in the OpenParlData showcase — [Contributor Wall](https://hackapertus.ch/contributor-wall) & [Certificate](https://hackapertus.ch/online-hack/certificates/138) |
 | **NASA** <kbd>Space Apps</kbd> | [Biotessera](https://www.spaceappschallenge.org/2025/find-a-team/biotessera/) recognized with Certificate of Outstanding Participation |
 | **DEV Community** <kbd>Trusted Member</kbd> | Hackathon judge, author of [top Google AI post](https://dev.to/vero-code/source-persona-ai-twin-md9) & moderator |
 | **Google** <kbd>ADK Contributor</kbd> | Core contributor ([PR #189](https://github.com/google/adk-java/pull/189)) — unified Javadoc architecture across core classes |
