@@ -25,6 +25,7 @@ Hi, I'm Veronika ![](https://user-images.githubusercontent.com/18350557/17630978
 | **Adobe** <kbd>Live Add-on</kbd> | [EthnoLens AI](https://github.com/vero-code/ethno-lens-ai) launched on [Adobe Express](https://adobesparkpost.app.link/TR9Mb7TXFLb?addOnId=wgih39l8j) |
 | **Chrome** <kbd>Web Store</kbd> | [Lexi Node](https://github.com/vero-code/lexi-node) published in the [Chrome Web Store](https://chromewebstore.google.com/detail/lexi-node-visual-vocabula/lmahjhejkojpphjkccdabcpnomjelihb) |
 | **Perplexity** <kbd>Cookbook</kbd> | [Valetudo AI](https://github.com/vero-code/valetudo-ai) featured in the official API showcase |
+| **Devpost** <kbd>Live Review</kbd> | [Dev Cadence](https://github.com/vero-code/dev-cadence) selected and praised in the [official live review](https://youtu.be/Xh8Ie_VuA_0?t=2260) |
 | **Devpost** <kbd>Community</kbd> | [Gemini Tales](https://github.com/vero-code/gemini-tales-v2) earned top votes and strong [developer support](https://devpost.com/software/gemini-tales) |
 | **Google** <kbd>Startup Grant</kbd> | [Celestine](https://github.com/vero-code/celestine) named [Maps Platform Awards Nominee](https://mapsplatform.google.com/awards/?nominee=celestine-rg16km) |
 | **Hack Apertus** <kbd>Contributor</kbd> | [SEVERIN](https://hackapertus.ch/projects/severin) published in the OpenParlData showcase — [Contributor Wall](https://hackapertus.ch/contributor-wall) & [Certificate](https://hackapertus.ch/online-hack/certificates/138) |
