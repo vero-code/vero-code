@@ -28,6 +28,7 @@ Hi, I'm Veronika ![](https://user-images.githubusercontent.com/18350557/17630978
 | **Devpost** <kbd>Live Review</kbd> | [Dev Cadence](https://github.com/vero-code/dev-cadence) selected and praised in the [official live review](https://youtu.be/Xh8Ie_VuA_0?t=2260) |
 | **Devpost** <kbd>Community</kbd> | [Gemini Tales](https://github.com/vero-code/gemini-tales-v2) earned top votes and strong [developer support](https://devpost.com/software/gemini-tales) |
 | **Google** <kbd>Startup Grant</kbd> | [Celestine](https://github.com/vero-code/celestine) named [Maps Platform Awards Nominee](https://mapsplatform.google.com/awards/?nominee=celestine-rg16km) |
+| **Google × Antler** <kbd>Accelerator</kbd> | [EthnoLens AI](https://www.ethnolens.com/) selected for the [Immersion EMEA 2026](https://rsvp.withgoogle.com/events/immersion-emea-2026) startup cohort |
 | **Hack Apertus** <kbd>Contributor</kbd> | [SEVERIN](https://hackapertus.ch/projects/severin) published in the OpenParlData showcase — [Contributor Wall](https://hackapertus.ch/contributor-wall) & [Certificate](https://hackapertus.ch/online-hack/certificates/138) |
 | **NASA** <kbd>Space Apps</kbd> | [Biotessera](https://www.spaceappschallenge.org/2025/find-a-team/biotessera/) recognized with Certificate of Outstanding Participation |
 | **DEV Community** <kbd>Trusted Member</kbd> | Hackathon judge, author of [top Google AI post](https://dev.to/vero-code/source-persona-ai-twin-md9) & moderator |
